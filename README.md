@@ -39,3 +39,15 @@ INNOVATIONS	 1：除了分类任务，同时额外训练一个二分类模型，
 INNOVATIONS  2：加入BIO向量特征，即实体的边界。并阐述了其在不同模型中的通用性，与相对位置向量作用类似。
 
 
+
+
+
+3.ACL 2019: Entity-Relation Extraction as Multi-turn Question Answering
+Authors: Xiaoya Li, Fan Yin, Zijun Sun, Xiayu Li , Arianna Yuan;~, Duo Chai, Mingxin Zhou and Jiwei Li;|
+Organization: School of Information, Renmin University of China
+
+Code: not available, 
+
+Datasets: ACE04, ACE05 and CoNLL04 datasets. Only ACE05 is available
+
+Conclusion of this article: Use multi-turn Q&A mode to extract multi-entities relationship. Such task is specially trained for certain goal. such as in RESUME. 
