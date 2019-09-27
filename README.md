@@ -46,8 +46,23 @@ INNOVATIONS  2：加入BIO向量特征，即实体的边界。并阐述了其在
 Authors: Xiaoya Li, Fan Yin, Zijun Sun, Xiayu Li , Arianna Yuan;~, Duo Chai, Mingxin Zhou and Jiwei Li;|
 Organization: School of Information, Renmin University of China
 
-Code: not available, 
+Code: not available
 
-Datasets: ACE04, ACE05 and CoNLL04 datasets. Only ACE05 is available
+Datasets: ACE04, ACE05 and CoNLL04 datasets. ACE05 is available, CoNLL04路径：/data/checan/RE/multihead/data/CoNLL04
 
 Conclusion of this article: Use multi-turn Q&A mode to extract multi-entities relationship. Such task is specially trained for certain goal. such as in RESUME. 
+
+4.ACL 2019: Neural Relation Extraction for Knowledge Base Enrichment (基于维基语料库的英文关系抽取）
+Authors: Bayu Distiawan Trisedya1, Gerhard Weikum2, Jianzhong Qi1, Rui Zhang1
+Organization:The University of Melbourne, Australia
+
+Code and Datasets: http://www.ruizhang.info/GKB/gkb.htm. 
+
+Conclusion of this article: 用文法过滤的方法去除了远监督数据集中的无用语料。 直接抽出三元组。
+
+
+#.ACL 2019: On Evaluating Embedding Models for Knowledge Base Completion
+Authors:Yanjie Wang et.al,
+Organizations: University of Mannheim Mannheim, Germany
+
+Code: not available,
